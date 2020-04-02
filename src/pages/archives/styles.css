@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+  }
+  .header {
+    display: -webkit-flex;  
+    display: flex;  
+    float: left;
+    margin-left: 20px; 
+}
+.archives-container {  
+    display: -webkit-flex;  
+    display: flex;  
+    float: left;
+    flex-wrap: wrap;
+    margin: auto;   
+} 
+.archives-item {       
+    margin: 10px;  
+} 
+.dropdown-container {
+    display: -webkit-flex; 
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
