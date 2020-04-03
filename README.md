@@ -1,8 +1,6 @@
 ### Analog Sample App
 
-#### src/components/dropdowns/sort - It contains the dropdown for getting oldest and newest archives.
-
-#### src/components/dropdowns/year - It contains the dropdown for getting archives by years.
+#### src/components/dropdowns/Dropdown - Dropdown functional component for sort by year and oldest & newest.
 
 #### src/config/Constants - It contains the constants values for Archives .
 

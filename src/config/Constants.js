@@ -1,77 +1,451 @@
 export const Archives_Data = [
-    { 
-        img: "https://via.placeholder.com/150",
-        year: 2020,
-        volume: 2
+   
+      
+          {
+             "img":"https://via.placeholder.com/200x300",
+             "year":2019,
+             "volume":4
+          },
+          {
+             "img":"https://via.placeholder.com/200x300",
+             "year":2019,
+             "volume":3
+          },
+          {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2019,
+            "volume":2
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2019,
+            "volume":1
+         },
+          {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2018,
+            "volume":4
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2018,
+            "volume":3
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2018,
+            "volume":2
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2018,
+            "volume":1
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2017,
+            "volume":4
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2017,
+            "volume":3
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2017,
+            "volume":2
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2017,
+            "volume":1
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2016,
+            "volume":4
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2016,
+            "volume":3
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2016,
+            "volume":2
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2016,
+            "volume":1
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2015,
+            "volume":4
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2015,
+            "volume":3
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2015,
+            "volume":2
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2015,
+            "volume":1
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2014,
+            "volume":4
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2014,
+            "volume":3
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2014,
+            "volume":2
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2014,
+            "volume":1
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2013,
+            "volume":4
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2013,
+            "volume":3
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2013,
+            "volume":2
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2013,
+            "volume":1
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2012,
+            "volume":4
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2012,
+            "volume":3
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2012,
+            "volume":2
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2012,
+            "volume":1
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2011,
+            "volume":4
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2011,
+            "volume":3
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2011,
+            "volume":2
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2011,
+            "volume":1
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2010,
+            "volume":4
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2010,
+            "volume":3
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2010,
+            "volume":2
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2010,
+            "volume":1
+         },
+     
+        {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2009,
+            "volume":4
+         },
+         {
+            "img":"https://via.placeholder.com/200x300",
+            "year":2009,
+            "volume":3
+         },
+         {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2009,
+           "volume":2
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2009,
+           "volume":1
+        },
+         {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2008,
+           "volume":4
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2008,
+           "volume":3
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2008,
+           "volume":2
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2008,
+           "volume":1
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2007,
+           "volume":4
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2007,
+           "volume":3
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2007,
+           "volume":2
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2007,
+           "volume":1
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2006,
+           "volume":4
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2006,
+           "volume":3
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2006,
+           "volume":2
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2006,
+           "volume":1
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2005,
+           "volume":4
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2005,
+           "volume":3
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2005,
+           "volume":2
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2005,
+           "volume":1
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2004,
+           "volume":4
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2004,
+           "volume":3
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2004,
+           "volume":2
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2004,
+           "volume":1
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2003,
+           "volume":4
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2003,
+           "volume":3
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2003,
+           "volume":2
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2003,
+           "volume":1
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2002,
+           "volume":4
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2002,
+           "volume":3
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2002,
+           "volume":2
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2002,
+           "volume":1
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2001,
+           "volume":4
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2001,
+           "volume":3
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2001,
+           "volume":2
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2001,
+           "volume":1
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2000,
+           "volume":4
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2000,
+           "volume":3
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2000,
+           "volume":2
+        },
+        {
+           "img":"https://via.placeholder.com/200x300",
+           "year":2000,
+           "volume":1
+        },
+ 
+ ] 
+  
+ export const sortDropDown = [{ option: "Newest", submenu: null }, { option: "Oldest", submenu: null} ];
+  export const yearDropDown = [
+    {
+        option: "All",
+        submenu :null
     },
-    { 
-        img: "https://via.placeholder.com/150",
-        year: 2019,
-        volume: 2
+    {
+        option: "2020s",
+        submenu: [
+          {option: "2019"},
+          {option: "2018"},
+          {option: "2017"},
+          {option: "2016"},
+          {option: "2015"},
+          {option: "2014"},
+          {option: "2013"},
+          {option: "2012"},
+          {option: "2011"},
+          {option: "2010"}
+
+        ]
     },
-    { 
-        img: "https://via.placeholder.com/150",
-        year: 2018,
-        volume: 2
-    },
-    { 
-        img: "https://via.placeholder.com/150",
-        year: 2017,
-        volume: 2
-    },
-    { 
-        img: "https://via.placeholder.com/150",
-        year: 2016,
-        volume: 2
-    },
-    { 
-        img: "https://via.placeholder.com/150",
-        year: 2020,
-        volume: 2
-    },
-    { 
-        img: "https://via.placeholder.com/150",
-        year: 2020,
-        volume: 2
-    },
-    { 
-        img: "https://via.placeholder.com/150",
-        year: 2020,
-        volume: 2
-    },
-    { 
-        img: "https://via.placeholder.com/150",
-        year: 2020,
-        volume: 2
-    },
-    { 
-        img: "https://via.placeholder.com/150",
-        year: 2020,
-        volume: 2
-    },
-    { 
-        img: "https://via.placeholder.com/150",
-        year: 2020,
-        volume: 2
-    },
-    { 
-        img: "https://via.placeholder.com/150",
-        year: 2020,
-        volume: 2
-    },
-    { 
-        img: "https://via.placeholder.com/150",
-        year: 2020,
-        volume: 2
-    },
-    { 
-        img: "https://via.placeholder.com/150",
-        year: 2020,
-        volume: 2
-    },
-    { 
-        img: "https://via.placeholder.com/150",
-        year: 2020,
-        volume: 2
-    }
-  ];
+    {
+      option: "2000s",
+      submenu: [
+        {option: "2009"},
+        {option: "2088"},
+        {option: "2007"},
+        {option: "2006"},
+        {option: "2005"},
+        {option: "2004"},
+        {option: "2003"},
+        {option: "2002"},
+        {option: "2001"},
+        {option: "2000"}
+
+      ]
+  }
+]; 
+
+    
+    
+
+  
