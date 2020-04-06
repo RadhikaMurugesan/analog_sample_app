@@ -9,8 +9,8 @@
     flex-direction: column;
 }
 .header {
-  display: flex;
-  margin-left: 20px;
+  display: flex; 
+  align-self: flex-start;
 }
 .archives-container {
   display: flex;

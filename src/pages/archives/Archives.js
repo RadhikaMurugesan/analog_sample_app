@@ -28,10 +28,17 @@ export default class Archives extends Component {
   }
 
   changeYearValue(year) {
+    console.log("year", year);
+    
     let archives = [];
-    archives = Constants.Archives_Data.filter(function (data) {
-      return data.year == year;
-    });
+    if(year === "All"){
+      archives = Constants.Archives_Data
+      } else {
+        archives = Constants.Archives_Data.filter(function (data) {
+          return data.year == year;
+        });
+      }
+   
     this.setState({ yearDropDownValue: year, sortedRecord: archives });
   }
 
