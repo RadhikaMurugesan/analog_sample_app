@@ -1,9 +1,24 @@
 .dropdown-submenu {
     position: relative;
   }
+  .text{
+    color: #009FBD
+  }
   
   .dropdown-submenu .dropdown-menu {
     top: 0;
     left: 100%;
     margin-top: -1px;
   }
+  .dropdown-submenu:hover ul{
+    display: block;
+  }
+.dropdown-input{
+  text-align: left;
+  width: 160px;
+}
+.down-arrow {
+ font-size: 20px;
+ float: right;
+ color: #009FBD;
+}
